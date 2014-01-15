@@ -1,0 +1,25 @@
+{
+  "name": "nor-history.js",
+  "version": "1.8.0",
+  "description": "History.JS NPM wrapper for easier use with browserify",
+  "main": "node_modules/history.js/scripts/bundled/html5/native.history.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Sendanor/nor-history.js.git"
+  },
+  "keywords": [
+    "history"
+  ],
+  "author": "Jaakko-Heikki Heusala <jheusala@iki.fi>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sendanor/nor-history.js/issues"
+  },
+  "dependencies": {
+    "history.js": "browserstate/history.js#v1.8"
+  },
+  "homepage": "https://github.com/Sendanor/nor-history.js"
+}
